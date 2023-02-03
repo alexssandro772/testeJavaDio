@@ -31,27 +31,45 @@ public class Operadores {
 // System.out.println(concatenacao);	
     
 
-//classe Operadores.java
-int numero = 5;
+// //classe Operadores.java
+// int numero = 5;
 		
-//Imprimindo o numero negativo
-System.out.println(- numero);
+// //Imprimindo o numero negativo, mas não alterando o numero
+// System.out.println(- numero);
 
-//incrementando numero em mais 1 numero, imprime 6
-numero ++;
-System.out.println(numero);
+// //incrementando numero em mais 1 numero, imprime 6
+// numero ++;
+// System.out.println(numero);
 
-//incrementando numero em mais 1 numero, imprime 7
-System.out.println(numero ++);// ops algo de errado não está certo
+// //incrementando numero em mais 1 numero, imprime 7
+// System.out.println(numero ++);// ops algo de errado não está certo
 
-System.out.println(numero);// agora sim, numero virou 7
+// System.out.println(numero);// agora sim, numero virou 7
 
-//ordem de precedencia conta aqui
-System.out.println(++ numero);
+// //ordem de precedencia conta aqui
+// System.out.println(++ numero);
 
-boolean verdadeiro = true;
+// boolean verdadeiro = true;
 
-System.out.println("Virou " + !verdadeiro);
+// System.out.println("Virou " + !verdadeiro);
+
+System.out.println("Operador ternário");
+// classe Operadores.java
+int a, b;
+
+a = 5;
+b = 6;
+
+/*
+if(a==b)
+   resultado = "verdadeiro";
+else
+   resultado = "falso";
+*/
+
+String resultado = (a==b) ? "verdadeiro" : "false";
+
+System.out.println(resultado);
 
 
     
