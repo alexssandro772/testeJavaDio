@@ -1,8 +1,9 @@
 import java.util.Date;
 
+
 public class Operadores {
     public static void main(String[] args) {
-        System.out.println("Operadores");
+        // System.out.println("Operadores");
 
 //     //classe Operadores.java
 //     String nome = "Alexssandro";
@@ -95,14 +96,19 @@ public class Operadores {
 
 // if(numero1 != numero2)
 // 	System.out.println("Numero 1 é diferente de numero 2");
-System.out.println("Trabalhando com Operadores Lógicos");
+    // System.out.println("Trabalhando com Operadores Lógicos");
 
-boolean condicao1 = false;
-boolean condicao2 = true;
+    // boolean condicao1 = false;
+    // boolean condicao2 = true;
 
-if (condicao1 == false && condicao2 == true) {
-    System.out.println("No se");
-}
+    // if (condicao1 == false && condicao2 == true) {
+    //     System.out.println("No se");
+    // }
+
+    System.out.println("Métodos");
+    MyClass ClasseTeste = new MyClass();
+    ClasseTeste.dizerOla("Alexssandro");
+
 
     
 
