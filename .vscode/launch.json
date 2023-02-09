@@ -1,0 +1,70 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Teste1",
+            "request": "launch",
+            "mainClass": "exercicio2.Teste1",
+            "projectName": "testeJavaDio_424c6eb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe2",
+            "request": "launch",
+            "mainClass": "AboutMe2",
+            "projectName": "testeJavaDio_424c6eb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "testeJavaDio_424c6eb6",
+            "args": [
+                "Alexssandro",
+                "Santos",
+                34,
+                1.57
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Launch Comentarios",
+            "request": "launch",
+            "mainClass": "Comentarios",
+            "projectName": "testeJavaDio_424c6eb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "testeJavaDio_424c6eb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "testeJavaDio_424c6eb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "testeJavaDio_424c6eb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "exercicio1.Usuario",
+            "projectName": "testeJavaDio_424c6eb6"
+        }
+    ]
+}

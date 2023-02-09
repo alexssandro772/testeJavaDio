@@ -1,0 +1,1 @@
+"C:\Arquivos de programas\Java\jdk1.6.0\bin\javadoc" -d doc *.java

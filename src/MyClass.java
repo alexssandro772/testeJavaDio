@@ -1,8 +1,8 @@
 public class MyClass {
 	
-	public double somar(int num1, int num2){
+	public void somar(int num1, int num2){
 		//LOGICA - FINALIDADE DO MÉTODO
-		return ... ;
+		//return ... ;
 	}
 	
 	public void dizerOla(String nome){
